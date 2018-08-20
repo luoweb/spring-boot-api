@@ -1,4 +1,4 @@
-package com.company.project.configurer;
+package com.luowb.k8sapi.configurer;
 
 import com.github.pagehelper.PageHelper;
 import org.apache.ibatis.plugin.Interceptor;
@@ -15,9 +15,10 @@ import tk.mybatis.spring.mapper.MapperScannerConfigurer;
 
 import javax.annotation.Resource;
 import javax.sql.DataSource;
-import java.util.Properties;
 
-import static com.company.project.core.ProjectConstant.*;
+import static com.luowb.k8sapi.core.ProjectConstant.*;
+
+import java.util.Properties;
 
 /**
  * Mybatis & Mapper & PageHelper 配置

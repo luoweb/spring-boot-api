@@ -1,4 +1,4 @@
-package com.company.project;
+package com.luowb.k8sapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

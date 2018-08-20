@@ -1,4 +1,4 @@
-package com.company.project.core;
+package com.luowb.k8sapi.core;
 
 import tk.mybatis.mapper.common.BaseMapper;
 import tk.mybatis.mapper.common.ConditionMapper;
