@@ -1,4 +1,4 @@
-package com.luowb.k8sapi.configurer;
+package cn.roweb.k8sapi.configurer;
 
 import com.github.pagehelper.PageHelper;
 import org.apache.ibatis.plugin.Interceptor;
@@ -16,7 +16,7 @@ import tk.mybatis.spring.mapper.MapperScannerConfigurer;
 import javax.annotation.Resource;
 import javax.sql.DataSource;
 
-import static com.luowb.k8sapi.core.ProjectConstant.*;
+import static cn.roweb.k8sapi.core.ProjectConstant.*;
 
 import java.util.Properties;
 

@@ -1,4 +1,4 @@
-package com.conpany.project;
+package cn.roweb.k8sapi;
 
 
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.annotation.Rollback;
 import org.springframework.test.context.junit4.SpringRunner;
 import org.springframework.transaction.annotation.Transactional;
 
-import com.luowb.k8sapi.Application;
+import cn.roweb.k8sapi.Application;
 
 /**
  * 单元测试继承该类即可

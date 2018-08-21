@@ -1,4 +1,4 @@
-package com.luowb.k8sapi.core;
+package cn.roweb.k8sapi.core;
 
 import com.alibaba.fastjson.JSON;
 

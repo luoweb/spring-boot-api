@@ -1,4 +1,4 @@
-package com.luowb.k8sapi;
+package cn.roweb.k8sapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

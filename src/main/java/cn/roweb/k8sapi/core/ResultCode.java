@@ -1,4 +1,4 @@
-package com.luowb.k8sapi.core;
+package cn.roweb.k8sapi.core;
 
 /**
  * 响应码枚举，参考HTTP状态码的语义
