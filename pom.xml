@@ -146,4 +146,8 @@
         </pluginRepository>
     </pluginRepositories>
 
+    <organization>
+    	<name>cn.roweb</name>
+    	<url>http://roweb.cn</url>
+    </organization>
 </project>
